@@ -5,6 +5,8 @@
 
 Welcome to the MERN Product Page! This simple web application is built using the MERN stack (MongoDB, Express, React, and Node.js). It allows users to view and manage product details with a clean and efficient design.
 
+![Screenshot](main_image.PNG)
+
 ## Prerequisites
 
 Before starting, ensure you have the following prerequisites installed and set up:
