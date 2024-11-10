@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Welcome to the [MERN Product Page!](https://mern-product-store-5gaw.onrender.com/) This simple web application is built using the MERN stack (MongoDB, Express, React, and Node.js). It allows users to view and manage product details with a clean and efficient design.
+Welcome to the [MERN Product Page!](https://mernproductstore-4lbs7.ondigitalocean.app/) This simple web application is built using the MERN stack (MongoDB, Express, React, and Node.js). It allows users to view and manage product details with a clean and efficient design.
 
 ![Screenshot](main_image.PNG)
 
